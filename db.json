@@ -1,0 +1,7 @@
+{
+  "people": [
+    {"v":"car", "name":"Zain"},
+    {"v":"bike", "name":"Ahmed"},
+    {"v":"airplane", "name":"Sohail"}
+  ]
+}
