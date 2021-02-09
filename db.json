@@ -1,7 +1,17 @@
 {
-  "people": [
-    {"v":"car", "name":"Zain"},
-    {"v":"bike", "name":"Ahmed"},
-    {"v":"airplane", "name":"Sohail"}
-  ]
+	"table1":{
+		"header":[
+			"name","email"],
+		"data":[
+			{"name": "John", "email":"john@123.com"},
+			{"name":"Peter","email":"peter@123.com"}
+		]
+	},
+	"table2":{
+		"header":["id","name","email"],
+		"data":[
+			{"id":"1","name": "David", "email":"david@123.com"},
+			{"name":"Adam","email":"adam@123.com"}
+		]
+	}
 }
