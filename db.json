@@ -1,5 +1,7 @@
 {
-	"table1":{
+	"tables":[
+	{
+		"name":"table1",
 		"header":[
 			"name","email"],
 		"data":[
@@ -7,11 +9,14 @@
 			{"name":"Peter","email":"peter@123.com"}
 		]
 	},
-	"table2":{
+	{
+		"name":"tabl2",
 		"header":["id","name","email"],
 		"data":[
 			{"id":"1","name": "David", "email":"david@123.com"},
 			{"id":"2","name":"Adam","email":"adam@123.com"}
+		
 		]
 	}
+	]
 }
