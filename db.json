@@ -11,10 +11,11 @@
 	},
 	{
 		"name":"tabl2",
-		"header":["id","name","email"],
+		"header":["id","username","name","email","dob","street","house", "city","phone","status","ocupation","lastname","efg","hij","klm"],
 		"data":[
-			{"id":"1","name": "David", "email":"david@123.com"},
-			{"id":"2","name":"Adam","email":"adam@123.com"}
+			{"id":"1","username":"Dav","name": "David","email":"david@123.com","dob":"1.01.91","street":"St John","house":"107","city":"Berlin","phone":"6789","status":"single","ocupation":"Retired","lastname":"Smith","efg":"qweqr","hij":"jksjlh","klm":"dfgfg"},
+			{"id":"2","username":"Adm","name":"Adam" ,"email":"adam@123.com","dob":"1.01.81","street":"St Paul","house":"185","city":"Aachen","phone":"868975689","status":"married","ocupation":"Engineer","lastname":"Brown","efg":"dfgdfg","hij":"asdasd","klm":"jkdhfkgdh"}
+
 		
 		]
 	}
