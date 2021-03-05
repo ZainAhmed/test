@@ -6,7 +6,7 @@
 			"SourceCell","TargetCell","Reason","Importance","Source","RelationType"],
 		"data":[
 			{"SourceCell":"123","TargetCell":"234","Reason":"unkown","Importance":"1","Source":"test","RelationType":"unkown"},
-			{"SourceCell":"896","TargetCell":"455","Reason":"unkown","Importance":"0","Source":"test","RelationType":"unkown"}}
+			{"SourceCell":"896","TargetCell":"455","Reason":"unkown","Importance":"0","Source":"test","RelationType":"unkown"}
 		]
 	},
 	{
