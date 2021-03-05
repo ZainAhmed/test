@@ -3,10 +3,10 @@
 	{
 		"name":"table1",
 		"header":[
-			"name","email"],
+			"SourceCell","TargetCell","Reason","Importance","Source","RelationType"],
 		"data":[
-			{"name": "John", "email":"john@123.com"},
-			{"name":"Peter","email":"peter@123.com"}
+			{"SourceCell":"123","TargetCell":"234","Reason":"unkown","Importance":"1","Source":"test","RelationType":"unkown"},
+			{"SourceCell":"896","TargetCell":"455","Reason":"unkown","Importance":"0","Source":"test","RelationType":"unkown"}}
 		]
 	},
 	{
